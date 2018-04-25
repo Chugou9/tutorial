@@ -20,8 +20,6 @@
     "url": "https://github.com/Chugou9/tutorial/issues"
   },
   "homepage": "https://github.com/Chugou9/tutorial#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
