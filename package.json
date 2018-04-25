@@ -1,0 +1,27 @@
+{
+  "name": "tutorial_new",
+  "version": "1.0.1",
+  "description": "again tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chugou9/tutorial.git"
+  },
+  "keywords": [
+    "new",
+    "tutorial"
+  ],
+  "author": "Anton Arkhishin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chugou9/tutorial/issues"
+  },
+  "homepage": "https://github.com/Chugou9/tutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
